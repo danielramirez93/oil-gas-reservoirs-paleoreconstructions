@@ -8,7 +8,7 @@ When running global.py a directory containing two shapefiles is created in a "re
 
 ### Prerequisites
 
-If you are not using Mac OS delete the "pygplates_rev12_python27_MacOS64" directory and download the respective Pygplates library on: https://sourceforge.net/projects/gplates/files/pygplates/beta-revision-12/, then move the directory to the same working directory. Make sure to edit accordingly line 8 on the global.py script by adding the correct path.
+Download the Pygplates library found on this link: https://sourceforge.net/projects/gplates/files/pygplates/beta-revision-12/. Then move the library's folder to the working directory. Make sure to edit accordingly line 8 on the global.py script by adding the correct library's path.
 
 Also make sure you have installed all other third libraries needed to run the scripts. The interpreter should give you a heads up otherwise.
 
